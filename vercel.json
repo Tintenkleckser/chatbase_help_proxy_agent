@@ -8,5 +8,12 @@
       "source": "/help/:path*",
       "destination": "https://chatbase.co/Vj3UshuMv93LH37DTH-pV/help/:path*"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/help",
+      "permanent": false
+    }
   ]
 }
