@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/help",
+      "destination": "https://chatbase.co/Vj3UshuMv93LH37DTH-pV/help"
+    },
+    {
+      "source": "/help/:path*",
+      "destination": "https://chatbase.co/Vj3UshuMv93LH37DTH-pV/help/:path*"
+    }
+  ]
+}
